@@ -8,7 +8,7 @@ export default function Footer() {
             href="mailto:@gmail.com"
             className="hover:text-[#6366F1] transition-colors"
           >
-            andres.ahn@gmail.com
+            @gmail.com
           </a>
           <span>© {new Date().getFullYear()} 바이브코딩. All rights reserved.</span>
         </div>
