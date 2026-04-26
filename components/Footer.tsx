@@ -5,7 +5,7 @@ export default function Footer() {
         <div className="flex flex-col md:flex-row items-center justify-between gap-4 text-sm text-[#94A3B8]">
           <span className="font-bold text-base text-white">바이브코딩 컨설팅</span>
           <a
-            href="mailto:andres.ahn@gmail.com"
+            href="mailto:@gmail.com"
             className="hover:text-[#6366F1] transition-colors"
           >
             andres.ahn@gmail.com
