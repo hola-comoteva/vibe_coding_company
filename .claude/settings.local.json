@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install *)",
+      "Bash(task-master models *)",
+      "Bash(cd /tmp)",
+      "Bash(npx create-next-app@latest next-temp --typescript --tailwind --app --no-src-dir --import-alias \"@/*\" --eslint --no-git)",
+      "Bash(task-master set-status *)",
+      "Bash(mkdir -p /c/Users/user/vibe-coding/landing_page/components)",
+      "Bash(mkdir -p /c/Users/user/vibe-coding/landing_page/app/contact)",
+      "Bash(mkdir -p /c/Users/user/vibe-coding/landing_page/app/process)",
+      "Bash(mkdir -p /c/Users/user/vibe-coding/landing_page/public/images)",
+      "Bash(npm run *)",
+      "Bash(task-master show *)"
+    ]
+  },
+  "enableAllProjectMcpServers": true,
+  "enabledMcpjsonServers": [
+    "task-master-ai"
+  ]
+}

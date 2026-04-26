@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <linearGradient id="g3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0F172A"/>
+      <stop offset="100%" style="stop-color:#4C1D95"/>
+    </linearGradient>
+  </defs>
+  <rect width="1920" height="1080" fill="url(#g3)"/>
+  <text x="960" y="500" font-family="sans-serif" font-size="80" font-weight="bold" fill="#FFFFFF" text-anchor="middle">성장하는 비즈니스</text>
+  <text x="960" y="600" font-family="sans-serif" font-size="40" fill="#6366F1" text-anchor="middle">검증된 5단계 프로세스</text>
+</svg>

@@ -1,0 +1,13 @@
+{
+  "servers": {
+    "task-master-ai": {
+      "command": "npx",
+      "args": ["-y", "task-master-ai"],
+      "env": {
+        // "TASK_MASTER_TOOLS": "all", // Options: "all", "standard", "core", or comma-separated list of tools
+        "PERPLEXITY_API_KEY": "YOUR_PERPLEXITY_API_KEY_HERE"
+      },
+      "type": "stdio"
+    }
+  }
+}
